@@ -1,15 +1,12 @@
 ## Hi there 👋
-Hi there 👋
-I'm Yuchen Xie, a male born in August 2001, from Leiyang, Hengyang, Hunan Province, and a probationary member of the Communist Party of China.
+I'm Yuchen Xie, currently pursuing a Master's degree in Computer Science at Nankai University !
 
 Basic Info
 Phone: +86 16622720305
 Email: 2120230734@mail.nankai.edu.cn
 Education: 
-M.S. in Computer Technology
-
+M.S. in Computer Science
 Nankai University, Sep 2023 – Jun 2026 (expected)
-
 Research Interests: Machine Learning, Large Model Fine-tuning, Data Mining
 
 <!--
